@@ -2,11 +2,13 @@
 
 Your Name, yourcontact@ucsd.edu
 
-(Your teammate's contact info, if appropriate)
-
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+For this project, I want to combine the two kinds of music together. The idea is simple: I will use Python libraries to get some random music samples, 
+then I will combine those sample together and fix the combined sample to make it sounds nice. To generate these samples, I will use the Performance RNN
+colab to get the midi files. I will then use GANSynth to modify these files. Then I will mix these files together and see what I have at the end. 
+Hopefully, the end result will generate something sounds good, if not, I will problably try to find different training models/ music samples in the future
+to make the sound better. 
 
 ## Model/Data
 
