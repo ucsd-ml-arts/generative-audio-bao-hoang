@@ -13,24 +13,26 @@ to make the sound better.
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+- train_model folder
+- sample folder
+- result folder
+- mashup file is the final result sound
 
 ## Code
 
 Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+- Jupyter notebooks: https://colab.research.google.com/drive/1kscoXV4JFpTTzT5YxKu-cqxhrpH1Rz25
 
 ## Results
 
-- The sample folder containts all the files that were generetade using Performance_RNN
+- The train_model folder contains all the files that I used to train for Performance_RNN
+- The sample folder containts all the files that were generated using Performance_RNN
+- The result sample containts all the files that were generated using GANSynthOB
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Everything I did is on Google Colab so no need to download anything.
+I had issue with getting the midi file from the Performance_RNN.
 
 ## Reference
 
