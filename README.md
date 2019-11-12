@@ -1,6 +1,6 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
+Bao Hoang, bghoang@ucsd.edu
 
 ## Abstract
 
