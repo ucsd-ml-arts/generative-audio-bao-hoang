@@ -24,11 +24,7 @@ Your code for generating your project:
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- `.wav` files or `.mp4`
-- `.midi` files
-- musical scores
-- ... some other form
+- The sample folder containts all the files that were generetade using Performance_RNN
 
 ## Technical Notes
 
@@ -41,4 +37,8 @@ Any implementation details or notes we need to repeat your work.
 References to any papers, techniques, repositories you used:
 - Papers
 - Repositories
-- Blog posts
+     + Performance_RNN: https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb#scrollTo=EwFvRyg6xSoz
+     + GANSynth: https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb
+     + Pydub: https://github.com/jiaaro/pydub
+- Blog posts:
+     + https://magenta.tensorflow.org/gansynth
