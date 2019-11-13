@@ -28,6 +28,7 @@ Your code for generating your project:
 - The train_model folder contains all the files that I used to train for Performance_RNN
 - The sample folder containts all the files that were generated using Performance_RNN
 - The result sample containts all the files that were generated using GANSynthOB
+- Link to hear the sound: https://drive.google.com/file/d/1Yn38t84GLBCu95LMEsmVTe24fDnnfjdx/view?usp=sharing
 
 ## Technical Notes
 
@@ -37,7 +38,6 @@ I had issue with getting the midi file from the Performance_RNN.
 ## Reference
 
 References to any papers, techniques, repositories you used:
-- Papers
 - Repositories
      + Performance_RNN: https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb#scrollTo=EwFvRyg6xSoz
      + GANSynth: https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb
