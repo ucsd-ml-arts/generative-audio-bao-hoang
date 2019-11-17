@@ -28,7 +28,7 @@ Your code for generating your project:
 - The train_model folder contains all the files that I used to train for Performance_RNN
 - The sample folder containts all the files that were generated using Performance_RNN
 - The result sample containts all the files that were generated using GANSynthOB
-- Link to hear the sound: https://drive.google.com/file/d/1Yn38t84GLBCu95LMEsmVTe24fDnnfjdx/view?usp=sharing
+- Link to hear the sound:https://drive.google.com/file/d/1Yn38t84GLBCu95LMEsmVTe24fDnnfjdx/view?usp=sharing
 
 ## Technical Notes
 
